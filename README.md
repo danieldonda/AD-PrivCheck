@@ -149,6 +149,9 @@ O arquivo é aberto no browser ao final da execução e contém:
 - **Dashboard** com contagem total por nível de risco
 - **Tabela de inventário** com todos os atributos de cada conta
 - **Plano de sanitização** com comandos PowerShell prontos para remoção de privilégios
+<img width="800" height="382" alt="image" src="https://github.com/user-attachments/assets/317ab4cd-3821-4397-85a3-ff4d1da9d3ca" />
+
+
 
 ---
 
