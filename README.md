@@ -1,6 +1,6 @@
 # Check-PrivilegedAccounts.ps1
 
-> **Active Directory Privileged Account Validator** — identifica contas com privilégios elevados, classifica por nível de risco e gera um report HTML com plano de sanitização pronto para execução.
+> **Active Directory Privileged Account Validator**  identifica contas com privilégios elevados, classifica por nível de risco e gera um report HTML com plano de sanitização pronto para execução.
 
 Desenvolvido por **[Daniel Donda](https://danieldonda.com)** | **[Hackers Hive](https://hackershive.io)**
 
